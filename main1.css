@@ -1,7 +1,7 @@
 .box1{
     
    
-    width: 70%;
+    width: 1000px;
     padding: 20px;
     box-sizing: border-box;
     background: #333;
@@ -30,7 +30,7 @@
     margin: 0;
     padding-left: 0;
     color: #ff005c;
-    font-size: 44px;
+
 }
 .box1 .content h3
 {
@@ -46,7 +46,7 @@
 }   
 .box1 .content table
 {
-    font-size: 25px;
+    
     margin: 0;
     padding-left: 0;
     color: #ff005c;

@@ -36,7 +36,7 @@ padding-left: 10px;
 .box{
     
    
-    width: 70%;
+    width: 1000px;
     padding: 20px;
     box-sizing: border-box;
     background: rgb(205, 205, 205);
@@ -64,7 +64,7 @@ padding-left: 10px;
     margin: 0;
     padding-left: 0;
     color: #ff005c;
-    font-size: 44px;
+    
 }
 .box .content h3
 {
